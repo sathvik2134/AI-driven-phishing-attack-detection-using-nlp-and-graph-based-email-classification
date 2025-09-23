@@ -39,7 +39,7 @@ text## Usage
 - Run cells sequentially: Data loading → Preprocessing → BERT/TF-IDF features → Graph construction → Model training → Evaluation.
 - Predict on new emails using the trained model in the final cells.
 
-##License
+## License
 
 2025 9th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS
 
