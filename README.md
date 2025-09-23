@@ -41,7 +41,7 @@ text## Usage
 
 ## License
 
-2025 9th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS
+2025 9th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS)
 
 
 
